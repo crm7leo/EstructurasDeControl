@@ -27,6 +27,7 @@ su sueldo base y comisiones.
             double sueldoginal = (ventasfinal + sueldo1);
             System.out.println("Sueldo =" + sueldoginal );
 
+
         }
     }
 

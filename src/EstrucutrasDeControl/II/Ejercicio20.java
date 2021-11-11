@@ -27,6 +27,7 @@ media. Ten en cuenta que la media puede contener decimales.
                 System.out.println("media: " + media);
 
             } */
+
                 Scanner sc = new Scanner(System.in);
                 int a = 0;
                 int contador = 0;

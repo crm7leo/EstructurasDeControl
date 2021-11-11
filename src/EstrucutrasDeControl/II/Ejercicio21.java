@@ -22,7 +22,7 @@ evaluaciones).*/
     double n6 = 0;
 
 
-            for (int i = 0; i <= 6; i++ ) {
+            for(int i = 0; i <= 6; i++){
         if (i == 1) {
             System.out.println(b1);
             n1 = sc.nextDouble();
@@ -41,8 +41,8 @@ evaluaciones).*/
         } else if (i == 6) {
             System.out.println(g6);
             n6 = sc.nextDouble();
-        }
-    }double media = (n1+n2+n3+n4+n5+n6)/6;
-            System.out.println(media);
+        }double media = (n1+n2+n3+n4+n5+n6)/6;
+        System.out.println(media);
+    }
 }
 
